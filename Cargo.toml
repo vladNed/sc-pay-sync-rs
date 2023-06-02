@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "contracts/pay-sync",
+    "contracts/pay-sync/meta",
+    "contracts/deployer",
+    "contracts/deployer/meta",
+]
